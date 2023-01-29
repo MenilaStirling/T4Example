@@ -67,7 +67,7 @@ public class MiniProject {
         private String Version;
         private int price;
 
-        //default constructer
+        //default constructor
         public device(){
             this.itemsNum = 0;
             this.itemsName = "";
