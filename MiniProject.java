@@ -76,7 +76,7 @@ public class MiniProject {
             this.price = 0;
         }
 
-        //parameter constructer
+        //parameter constructor
         public device(String branchNum,String casherName, int itemsNum, String itemsName, String itemsID, String Version, int price){
             this.itemsNum = itemsNum;
             this.itemsName = itemsName;
@@ -153,6 +153,7 @@ public class MiniProject {
             System.out.println("Enter The number of items: ");  
             itemsNum = scanner.nextInt(); 
 
+            System.out.println("This is Comment done by 30th Jan 2022");
             int n =itemsNum;
 
             for(i=0;i<n;i++)   //loop executes n times  
@@ -217,7 +218,7 @@ public class MiniProject {
         }
 
         System.out.println("----------------Thank You for Shopping!!-----------------");  
-        System.out.println("                     Visit Again");
+        System.out.println(" ****************Visit Again*******");
 
      }
  }
