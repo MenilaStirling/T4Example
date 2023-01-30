@@ -6,7 +6,7 @@ package miniproject;
 
 /**
  *
- * @author nusaibaalriyami
+ * @author Dr. Menila James
  */
 import java.text.SimpleDateFormat;
 import java.util.Scanner;
